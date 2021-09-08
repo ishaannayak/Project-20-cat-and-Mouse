@@ -7,7 +7,7 @@ function preload() {
 
     catImg1 = loadAnimation("images/catHappy.png");
     catImg2 = loadAnimation("images/catWalking1.png","images/catWalking2.png");
-    catImg3 = loadAnimation("images/catsitting.png");
+    catImg3 = loadAnimation("images/catSitting.png");
 
     mouseImg1 = loadAnimation("images/mouseGift.png");
     mouseImg2 = loadAnimation("images/mouseTease.png","images/mouseTease2.png");
